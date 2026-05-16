@@ -7,7 +7,6 @@ Kutira Kone is an Android application developed using Kotlin and Jetpack Compose
 ## 📱 Features
 
 - 🔐 User authentication (Login screen)
-- 🐄 Browse livestock and farm listings
 - 💬 In-app chat system
 - 📥 Manage purchase requests
 - 🧭 Navigation between screens using Jetpack Compose Navigation

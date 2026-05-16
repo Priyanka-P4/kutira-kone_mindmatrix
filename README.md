@@ -1,4 +1,4 @@
-# Kutira Kone 🐄🏡
+# Kutira Kone 🏡
 
 Kutira Kone is an Android application developed using Kotlin and Jetpack Compose to connect buyers and sellers in the livestock marketplace. The app allows users to browse animal listings, chat with sellers, and manage purchase requests through a modern mobile interface.
 
